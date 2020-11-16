@@ -1,4 +1,4 @@
-var createError = require('httpd-error');
+var createError = require('html-error');
 
 var express = require('express');
 app = express();
