@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-dev",
+  "version": "1.0.0",
+  "description": "Hello World Dev App",
+  "main": "server.js",
+  "author": "Red Hat Training",
+  "license": "ASL",
+  "dependencies": {
+    "express": "4.20",
+    "html-errors": "latest"
+  }
+}
